@@ -32,7 +32,7 @@ namespace Triangle {
         return z;
       } else
       {
-        string t = "This is just a triangle";
+        string t = "This is a scalene triangle";
         return t;
       }
     }
